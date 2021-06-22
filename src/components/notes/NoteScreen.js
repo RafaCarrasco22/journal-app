@@ -32,7 +32,7 @@ export const NoteScreen = () => {
 
 
     const handleDelete = () => {
-        //dispatch( startDeleting( id ) );
+        dispatch( startDeleting( id ) );
     }
 
 
